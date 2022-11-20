@@ -1,0 +1,9 @@
+name: InfiniteLiquids
+version: '${project.version}'
+main: fr.omega2028.infiniteliquids.InfiniteLiquids
+api-version: 1.16
+commands:
+  infliquid:
+    description: Give un sceau infini
+    usage: /infliquid give <lava|water>
+    permission: infiniteliquid.infliquid
